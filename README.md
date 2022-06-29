@@ -20,7 +20,7 @@ clang version 10.0.0-4ubuntu1
 bear 2.4.3  
 g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0  
 GNU Make 4.2.1  
-cmake version 3.16.3  
+cmake version 3.22.3  
 PHP 7.4.3 (cli)  
 Apache 2.4.41 (Ubuntu)  
 ### Usage:
