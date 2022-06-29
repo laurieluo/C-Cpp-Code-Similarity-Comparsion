@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>C/C++ Similarity</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        h1 {
+            background: linear-gradient(to right, #360033, #0b8793);
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+    </style>
+</head>
+<body>
+    <div class="head1">
+        <h1>C/C++ Code Similarity Comparsion Tool</h1>
+    </div>
+    <div style="margin-top: 40px"></div>
+
+    <div class="upload">
+        <form action="upload1.php" method="post" enctype="multipart/form-data" target="nm_iframe">
+            <label for="file">Step1: Upload the first C/C++ file</label> <br>
+            <div class="choose">
+                <input type="file" name="upfile"> <br>
+            </div>
+            <div class="upfile">
+                <input type="submit" value="Upload File">
+            </div>
+        </form>
+        <iframe id="id_iframe" name="nm_iframe" style="display:none;"></iframe>
+    </div>
+
+    <div class="upload">
+        <form action="upload2.php" method="post" enctype="multipart/form-data" target="nm_iframe">
+            <label for="file">Step2: Upload the second C/C++ file</label> <br>
+            <div class="choose">
+                <input type="file" name="upfile"> <br>
+            </div>
+            <div class="upfile">
+                <input type="submit" value="Upload File">
+            </div>
+        </form>
+        <iframe id="id_iframe" name="nm_iframe" style="display:none;"></iframe>
+    </div>
+
+    <div class="process">
+        <form method="post" action="process.php">
+        <label for="file">Step3: Calculate the similarity of the two files</label>
+        <br>
+        <input type="submit" value="Process">
+    </form>
+    </div>
+    <div style="margin-top: 580px"></div>
+    <hr>
+    <div class="foot">
+        <p1>Final Project of C++ Advanced Language Programming Course, School of Cyber Security, Beijing University of Posts and Telecommunications </p1><br>
+        <p1>Group 6: Redamancy Macchiato, Yinxiao Chen, Jasster Jiang, Yuting Zhang, Sandm Jin, Laurie Luo</p1>
+    </div>
+    <div style="margin-top: 10px"></div>
+
+</body>
+</html>
