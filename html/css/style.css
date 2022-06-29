@@ -1,0 +1,74 @@
+body {
+    background-color: #8ec3eb;
+}
+
+.head1 {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    font-size: 25px;
+    font-weight: bold;
+
+    border: 5px double #e8e8e8;
+    border-radius: 30px;
+    padding: 20px;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.upfile input{
+    background-color: #00aad9;
+    color: #f4f4f4;
+    padding: 10px 15px;
+    border-radius:4px;
+}
+.upload {
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-left: 38%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 22%;
+    line-height: 34px;
+    border: 2px solid #4d4d4d;
+    border-radius: 10px;
+    text-align: center;
+    background: #D0EEFF;
+    float: left;
+    
+}
+.process {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    margin-left: 38%;
+    margin-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 22%;
+    line-height: 34px;
+    border: 2px solid #4d4d4d;
+    border-radius: 10px;
+    text-align: center;
+    background: #D0EEFF;
+    float: left;
+    
+}
+.process input {
+    background-color: #00aad9;
+    color: #f4f4f4;
+    padding: 10px 15px;
+    border-radius:4px;
+}
+.foot{
+    text-align: center;
+}
+.choose input{
+    
+}
