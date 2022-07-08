@@ -1,4 +1,4 @@
-## C/C++ Code Similarity Difference Comparision Tool
+## C/C++ Code Similarity Comparision Tool
 
 #### This is a final project of C++ Advanced Language Programming Course, School of Cyber Security, Beijing University of Posts and Telecommunications  
 #### Group 6 members: Redamancy Macchiato, Yinxiao Chen, Jasster Jiang, Yuting Zhang, Sandm Jin, Laurie Luo
