@@ -20,7 +20,7 @@ GNU Make 4.2.1
 cmake version 3.22.3  
 PHP 7.4.3 (cli)  
 Apache 2.4.41  
-### Usage:
+### Usage*:
 Prepare two compilable C/C++ programs, upload them to the web page one by one, then click to process, and wait a few seconds to get the results.  
 
 
